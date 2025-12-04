@@ -1,0 +1,10 @@
+INFO User login success
+WARN Disk space low
+ERROR Connection failed
+INFO User login success
+ERROR Connection failed
+WARN CPU usage high
+ERROR Connection failed
+INFO Service started
+WARN Disk space low
+INFO User login success
